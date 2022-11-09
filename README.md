@@ -1,0 +1,2 @@
+# Traitim
+code trái ttim
